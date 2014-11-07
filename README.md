@@ -1,0 +1,4 @@
+primitiva
+=========
+
+Ejemplo primitiva
